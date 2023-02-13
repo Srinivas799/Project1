@@ -1,0 +1,11 @@
+teacherId,teacherName,email,PhoneNumber,gender,qualification,subjects,salary,dateOfBirth
+1000001,Gayathri,gayathri20@gmail.com,7788996677,female,MCA,Python,35000,26-02-1999
+1000002,Srinu,srinu22@gmail.com,7788896677,Male,M.Tech,English,35000,11-01-1999
+1000003,Samba,sambasiva@gmail.com,8889333377,Male,M.Tech,"Power Systems",35000,11-01-1990
+1000004,mallikarjun,malli@gmail.com,996633221,Male,M.Tech,"Control Systems",35000,11-01-1989
+1000005,Dr.Veerakumari,veerakumari@gmail.com,8866332200,female,Ph.d,"Electrical Analysis",95000,11-01-1980
+1000006,Dr.Srinivasareddy,reddy.srinivas@gmail.com,8866332200,male,Ph.d,"Electrical Analysis",150000,11-01-1980
+1000007,Dr.Bhoopesh,bhoopesh66@gmail.com,8866331100,male,Ph.d,"Power generation",150000,11-01-1975
+1000008,Sunil,sunilkumar@gmail.com,8865631100,male,M.Tech,Relays,30000,11-01-1992
+1000009,Ayyappa,ayyappa@gmail.com,9965631100,male,M.Tech,Machines,30000,11-01-1992
+1000010,Ramanarayana,ramanarayana@gmail.com,9955661100,male,M.Tech,"Network theory",30000,11-01-1992
